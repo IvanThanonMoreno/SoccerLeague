@@ -46,7 +46,6 @@ public class Team implements Comparable <Team> {
     
     @Override
     public int compareTo (Team parameter) {
-        
         //Here, you can choose how you want the teams' list is ordered.
     }
 }
